@@ -12,7 +12,7 @@ helper = Client(
     "SelfHelper",
     api_id = 99999999999999999999999,
     api_hash = "api_hash",
-    bot_token = "5369627250:AAHY6jfRcBDDR1JvLsz3G5YdxpahMfhvjJU"
+    bot_token = "Bot_Token"
 )
 
 sudo = 9999999999
