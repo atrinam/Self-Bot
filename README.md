@@ -11,6 +11,7 @@ pip install pyromod
 pip install requests
 pip install os
 git clone "https://github.com/farzinn300/Self-Bot.git"
+cd Self-Bot
 python main.py
 ```
 ## Settings
