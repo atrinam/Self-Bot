@@ -10,6 +10,8 @@ pip install asyncio
 pip install pyromod
 pip install requests
 pip install os
+git clone "https://github.com/farzinn300/Self-Bot.git"
+python main.py
 ```
 ## Settings
 
