@@ -9,7 +9,7 @@ import random
 import os
 from functions.func import ChangeMod
 
-sudo = 468354860
+sudo = 7803950092
 
 if os.path.exists(f"self.json"):
     with open("self.json", "r") as x:
