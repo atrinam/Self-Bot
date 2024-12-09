@@ -1,4 +1,4 @@
-#---- By @MR_Rex ----#
+#---- By @rainbow ----#
 #---- Self Bot V1 ----#
 #---------------------------# Import Modules #---------------------------#
 from pyrogram import Client, idle
@@ -9,14 +9,14 @@ from Helper import helper
 #---------------------------# Bot Information #---------------------------#
 plugins = dict(root="plugins")
 print("#------Self v1------#")
-print("#------by @MR_Rex------#")
+print("#------by @rainbow------#")
 Rex = Client(
     "Self",
-    api_id = 999999999999999999,
-    api_hash = "api_hash",
+    api_id = 27227089,
+    api_hash = "03ac3b8dd6a14cf5a231203db4660f59",
     plugins=plugins
 )
-sudo = 99999999999
+sudo = 7803950092
 
 Rex.start()
 helper.start()
