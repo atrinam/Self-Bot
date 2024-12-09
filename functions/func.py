@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from pyromod.helpers import ikb
 
 
-sudo = 468354860
+sudo = 7803950092
 
 
 StartPm = ("♛","♚","⌯","♤","⇌","↯","↬","●","₪","⇝","✧","✩","✪","✯","➠","➥","➪","➲","❥")
