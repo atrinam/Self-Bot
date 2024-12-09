@@ -10,12 +10,12 @@ from functions.func import Enemy, AddFriend, RemoveFriend, Inline_ChangeMod, fir
 print("Helper Running")
 helper = Client(
     "SelfHelper",
-    api_id = 99999999999999999999999,
-    api_hash = "api_hash",
-    bot_token = "5369627250:AAHY6jfRcBDDR1JvLsz3G5YdxpahMfhvjJU"
+    api_id = 27227089,
+    api_hash = "03ac3b8dd6a14cf5a231203db4660f59",
+    bot_token = "8020661908:AAFqAHx0GvscnyARVXUcr-YsMhnTQPDs53I"
 )
 
-sudo = 9999999999
+sudo = 7803950092
 
 
 StartPm = ("♛","♚","⌯","♤","⇌","↯","●","₪","✧","✩","✪","✯","➲","❥")
